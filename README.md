@@ -1,5 +1,7 @@
 # Assignment-5-Answers
 Answers to assignment 5
+
+
 Answer 1: 
 - First, I went to the Visual Studio Code website.
 - I clicked on the "Download for Windows" button, which downloaded the installer.
