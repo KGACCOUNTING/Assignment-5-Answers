@@ -18,5 +18,19 @@ I clicked "Install" to start the installation and then "Finish" to complete it.
 -  Font and Editor Settings:
 I adjusted the font size and other settings in File > Preferences > Settings (or Ctrl+,). I specifically changed editor.fontSize, editor.lineHeight, and editor.tabSize.
 Extensions: I installed essential extensions like Prettier for code formatting, ESLint for JavaScript linting, the Python extension, and Live Server for web development, Github ,
-Screenshot:
+Screenshot: <img width="960" alt="Github" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/e8898145-936a-4933-be0d-0ceb7b62b264">
+<img width="949" alt="Gitlens" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/812e7da9-ddc1-461b-ac3e-0474efc5be34">
+<img width="951" alt="Prettier" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/9d630ec8-9b19-48aa-b03a-75420058bb49">
+
+Answer 3: 
+Main Components of the VS Code User Interface: 
+1.Activity Bar: Located on the left, it lets me access different views like Explorer, Search, Source Control, Run and Debug, and Extensions. N.B (Only image this will be highlightted in Yellow)
+
+2.Side Bar: This displays panels like File Explorer or Source Control based on what I select in the Activity Bar. N.B (Only image this will be highlightted in Yellow)
+
+3.Editor Group: The main area where I write and view my code. I can open multiple files in tabs or split the editor to view files side by side. N.B (Only image this will be highlightted in Yellow)
+
+4.Status Bar: Found at the bottom, it shows info about the current file, like encoding, line ending, language mode, and Git branch. It also displays notifications and errors. N.B (Only image this will be highlightted in Yellow)
+
+Reference: https://code.visualstudio.com/docs/getstarted/userinterface
 
