@@ -50,3 +50,14 @@ Main Components of the VS Code User Interface:
 
 Reference: https://code.visualstudio.com/docs/getstarted/userinterface
 
+
+Answer 4:  
+
+Accessing the Command Palette:
+
+I opened it with Ctrl+Shift+P (or F1). Common Tasks:
+
+-I used it to change the color theme by typing Color Theme and selecting one.
+-I opened files by typing Open File and selecting the file I wanted.
+-I ran tasks by typing Run Task to execute predefined tasks.
+
