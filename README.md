@@ -35,8 +35,7 @@ Main Components of the VS Code User Interface:
 
 2.Side Bar: This displays panels like File Explorer or Source Control based on what I select in the Activity Bar. N.B (Only image this will be highlightted in Yellow)
 
-<img width="975" alt="Status Bar" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/b8e06704-ec0d-4ede-bccc-1961835bf096">
-
+<img width="979" alt="Side Bar" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/72c9217f-4b8e-4386-b31a-956d591a3666">
 
 3.Editor Group: The main area where I write and view my code. I can open multiple files in tabs or split the editor to view files side by side. N.B (Only image this will be highlightted in Yellow)
 
@@ -45,7 +44,8 @@ Main Components of the VS Code User Interface:
 
 4.Status Bar: Found at the bottom, it shows info about the current file, like encoding, line ending, language mode, and Git branch. It also displays notifications and errors. N.B (Only image this will be highlightted in Yellow)
 
-<img width="979" alt="Side Bar" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/72c9217f-4b8e-4386-b31a-956d591a3666">
+
+<img width="975" alt="Status Bar" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/b8e06704-ec0d-4ede-bccc-1961835bf096">
 
 
 Reference: https://code.visualstudio.com/docs/getstarted/userinterface
