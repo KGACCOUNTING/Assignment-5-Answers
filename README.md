@@ -61,3 +61,82 @@ I opened it with Ctrl+Shift+P (or F1). Common Tasks:
 -I opened files by typing Open File and selecting the file I wanted.
 -I ran tasks by typing Run Task to execute predefined tasks.
 
+<img width="446" alt="Command palette" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/1ce49526-81d5-448b-b3bb-055c814ad77e">
+
+
+Answer 5:
+
+Role of Extensions and How to Manage Them:
+
+Finding and Installing Extensions:
+
+- I clicked on the Extensions icon in the Activity Bar or pressed Ctrl+Shift+X, then searched for extensions by name or functionality and clicked "Install."
+
+Managing Extensions:
+
+- I viewed installed extensions in the Extensions panel and could disable or uninstall them as needed.
+
+Essential Extensions for Web Development:
+
+- I installed Live Server for a live preview of web projects, ESLint to enforce coding standards, Prettier for consistent formatting, and Debugger for Chrome to debug JavaScript code in Chrome.
+
+Answer  6: 
+
+I opened it with Ctrl+ (backtick) or went to View > Terminal.
+
+Advantages: It seamlessly integrates with my coding environment, supports multiple instances and profiles, and lets me run scripts, manage version control, and execute build commands without leaving the editor.
+
+Reference : https://softwareengineering.stackexchange.com/questions/288205/what-are-the-advantages-of-build-scripts
+
+
+Answe 7:
+
+Creating Files and Folders:
+
+- I right-clicked in the Explorer panel and selected "New File" or "New Folder." I could also use Ctrl+N to create a new file and Ctrl+K Ctrl+O to open a folder.
+Opening Files and Folders:
+
+- I dragged and dropped files/folders into the editor or used the Open File or Open Folder options in the File menu.
+Navigation:
+
+- I switched between files using Ctrl+Tab and used Ctrl+P to quickly open files by name.
+
+Answer 8: 
+
+- I went to File > Preferences > Settings or used Ctrl+,.
+Customizing Settings:
+
+- I changed the theme by searching for workbench.colorTheme, adjusted the font size by searching for editor.fontSize, and modified keybindings by going to File > Preferences > Keyboard Shortcuts or using Ctrl+K Ctrl+S.
+
+Answer 9:
+
+
+- I clicked on the Run and Debug icon in the Activity Bar or pressed Ctrl+Shift+D. 
+
+- I clicked "create a launch.README.md file" to configure the debugger and selected the appropriate environment (e.g., Node.js, Python).
+
+- I clicked in the gutter next to the line numbers to add breakpoints.
+
+- I clicked the green play button in the Debug panel or pressed F5.
+
+- I used breakpoints to pause execution, monitored variables and expressions with the Watch feature, viewed the call stack, and navigated through code execution with Step Over/Into/Out.
+- 
+
+Reference : https://code.visualstudio.com/docs/editor/debugging
+
+
+  Answer 10:
+
+- I opened my project folder in VS Code, went to the Source Control panel, and clicked "Initializ Repository."
+
+- I staged changes by clicking the + icon next to the files, entered a commit message, and clicked the checkmark icon to commit.
+
+  -In the terminal, I set up my remote repository: git remote add origin https://github.com/KGACCOUNTING/your-repo.git
+  
+I pushed my commits with: git push -u origin master
+
+
+
+
+
+
