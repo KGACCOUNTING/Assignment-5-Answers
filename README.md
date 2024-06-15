@@ -25,18 +25,23 @@ Screenshot: <img width="960" alt="Github" src="https://github.com/KGACCOUNTING/A
 <img width="951" alt="Prettier" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/9d630ec8-9b19-48aa-b03a-75420058bb49">
 
 Answer 3: 
+
 Main Components of the VS Code User Interface: 
+
 1.Activity Bar: Located on the left, it lets me access different views like Explorer, Search, Source Control, Run and Debug, and Extensions. N.B (Only image this will be highlightted in Yellow)
 
 <img width="958" alt="Activity bar" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/b6b58a99-3e76-4a0e-ac27-958e65f22914">
+
 
 2.Side Bar: This displays panels like File Explorer or Source Control based on what I select in the Activity Bar. N.B (Only image this will be highlightted in Yellow)
 
 <img width="975" alt="Status Bar" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/b8e06704-ec0d-4ede-bccc-1961835bf096">
 
+
 3.Editor Group: The main area where I write and view my code. I can open multiple files in tabs or split the editor to view files side by side. N.B (Only image this will be highlightted in Yellow)
 
 <img width="991" alt="Editor Group" src="https://github.com/KGACCOUNTING/Assignment-5-Answers/assets/171460313/2a5eef8a-2458-4e01-b695-fb81fd6207c0">
+
 
 4.Status Bar: Found at the bottom, it shows info about the current file, like encoding, line ending, language mode, and Git branch. It also displays notifications and errors. N.B (Only image this will be highlightted in Yellow)
 
